@@ -13,6 +13,7 @@ In this repository you'll find:
 * A PyTorch implementation of the CycleGAN architecture
 * Code to run the CycleGAN training process 
 * Face image and painting datasets 
+* Pretrained PyTorch models for the cubism and pop art ArtGANs
 * A script to launch an interface to try out pretrained ArtGANs
 
 
