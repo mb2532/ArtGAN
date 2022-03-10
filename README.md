@@ -1,9 +1,9 @@
 # ArtGAN
 
 <!-- ABOUT THE PROJECT -->
-## Welcome to ArtGAN!
 
-[![Result Images][product-screenshot]]
+
+[![Result Images][artgan-interface]]
 
 CS 236G Final Project 
 
@@ -16,4 +16,4 @@ In this repository you'll find:
 * A script to launch an interface to try out pretrained ArtGANs
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
