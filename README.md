@@ -5,7 +5,7 @@
 
 ![gui](/images/results.png)
 
-CS 236G Final Project 
+Welcome to my CS 236G Final Project 
 
 In this project, we train CycleGANs to perform photo-to-painting style transfer to create face filters that transform real images into the style of several painting genres. 
 
