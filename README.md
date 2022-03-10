@@ -3,7 +3,7 @@
 <!-- ABOUT THE PROJECT -->
 
 
-[![Result Images][artgan-interface]]
+[![Product Name Screen Shot][artgan-interface]](https://example.com)
 
 CS 236G Final Project 
 
