@@ -25,7 +25,18 @@ In this repository you'll find:
 5. `artgan-interface` : code to launch interface to use pretrained ArtGANs
 
 
+## Launching the ArtGAN Interface
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+You'll first need to clone this repository `mb2532/ArtGAN` and navigate to the `artgan-interface` directory. 
+
+To launch the user interface run the script: 
+  ```sh
+  python facefiltergui.py
+  ```
+The following interface should appear: 
+![gui](/images/artgan_interface.png)
+
+Hit "Browse" and select the directory containing your desired face image (as a .png file). 
+Select an art genre from the bottom, and hit generate!
 
 
